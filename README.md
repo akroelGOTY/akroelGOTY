@@ -64,7 +64,7 @@
 
 ###
 
-<h3 align="left">atualmente estou aprendendo Next.js e React. --- Português<br>I'm currently learning Next.js and React. --- English</h3>
+<h3 align="left">atualmente estou aprendendo Next.js e React.<br>I'm currently learning Next.js and React.</h3>
 
 ###
 
