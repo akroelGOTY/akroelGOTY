@@ -1,4 +1,4 @@
-<h2 align="left">👨‍💻 Bem-vindo(a) ao meu perfil do GitHub!<br><br>🔹 Aqui você encontrará projetos relacionados a [sua área: web, mobile, IA, etc.]  <br>🔹 Sempre buscando aprender e evoluir no mundo da programação.  <br>🔹 Aberto a colaborações e novas ideias!</h2>
+<h2 align="left">👨‍💻 Bem-vindo(a) ao meu perfil do GitHub!<br><br>🔹 Aqui você encontrará projetos relacionados a [sua área: web, mobile, API, etc.]  <br>🔹 Sempre buscando aprender e evoluir no mundo da programação.  <br>🔹 Aberto a colaborações e novas ideias!</h2>
 
 ###
 
