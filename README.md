@@ -71,11 +71,11 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-ramos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-ramos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
 </div>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas-ramos&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
