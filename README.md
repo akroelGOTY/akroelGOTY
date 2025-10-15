@@ -52,19 +52,23 @@
 ###
 
 <div align="center">
-  <!-- Estatísticas do GitHub -->
+  <!-- Estatísticas principais -->
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=akroelGOTY&show_icons=true&theme=github_dark&hide_border=false&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=akroelGOTY&show_icons=true&theme=tokyonight&hide_border=false&locale=pt-br" 
     height="160" 
-    alt="GitHub Stats" 
+    alt="GitHub Stats"
   />
-  
-  <!-- Gráfico de streaks -->
+</p>
+
+<!-- Gráfico de streaks -->
+<p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=akroelGOTY&theme=github-dark&hide_border=false" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=akroelGOTY&theme=tokyonight&hide_border=false" 
     height="160" 
-    alt="Streak Graph" 
+    alt="Streak Graph"
   />
+</p>
   
   <!-- Trophies -->
   <img 
