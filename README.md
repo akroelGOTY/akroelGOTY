@@ -60,15 +60,6 @@
     alt="GitHub Stats"
   />
 </p>
-
-<!-- Gráfico de streaks -->
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=akroelGOTY&theme=tokyonight&hide_border=false" 
-    height="160" 
-    alt="Streak Graph"
-  />
-</p>
   
   <!-- Trophies -->
   <img 
