@@ -76,3 +76,9 @@
 
 ###
 
+<h2 align="center">🎯 Projetos em Destaque</h2>
+
+<div align="center">
+🎵 <a href="https://catalago-musical-akroel.netlify.app">Music Player estilo Spotify</a> <br>
+</div>
+
