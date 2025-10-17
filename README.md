@@ -74,6 +74,6 @@
 <h2 align="center">🎯 Projetos em Destaque</h2>
 
 <div align="center">
-🎵 <a href="#">Music Player estilo Spotify</a> <br>
+ <a href="https://astranew.netlify.app">✈️ aplicativo de viagem</a> <br>
 </div>
 
