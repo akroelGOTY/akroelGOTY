@@ -60,14 +60,6 @@
     alt="GitHub Stats"
   />
 </p>
-  
-  <!-- Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=akroelGOTY&theme=darkhub&no-frame=false&no-bg=false&margin-w=8" 
-    height="110" 
-    alt="Trophy Graph" 
-  />
-</div>
 
 ###
 
