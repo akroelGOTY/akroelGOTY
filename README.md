@@ -66,6 +66,6 @@
 <h2 align="center">🎯 Projetos em Destaque</h2>
 
 <div align="center">
- <a href="https://astranew.netlify.app">✈️ aplicativo de viagem</a> <br>
+ <a href="#">Convertor de pixel</a> <br>
 </div>
 
