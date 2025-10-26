@@ -22,15 +22,8 @@ jobs:
         with:
           github_user_name: akroelGOTY
           outputs: |
-            dist/snake.svg?palette=dark
-            dist/snake-dark.svg?palette=dark
-          palette: |
-            dark:
-              - "#1a1a1a"
-              - "#2d2d2d"
-              - "#404040"
-              - "#595959"
-              - "#737373"
+            dist/snake.svg?palette=github-dark
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3
