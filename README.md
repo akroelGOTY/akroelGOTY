@@ -63,9 +63,5 @@
 
 <img src="https://raw.githubusercontent.com/akroelGOTY/akroelGOTY/output/snake.svg" alt="Snake animation" />
 
-<h2 align="center">🎯 Projetos em Destaque</h2>
 
-<div align="center">
- <a href="#">Convertor de pixel</a> <br>
-</div>
 
