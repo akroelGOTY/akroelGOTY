@@ -51,15 +51,7 @@
 
 ###
 
-<div align="center">
-  <!-- Estatísticas principais -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=akroelGOTY&show_icons=true&theme=tokyonight&hide_border=false&locale=pt-br" 
-    height="160" 
-    alt="GitHub Stats"
-  />
-</p>
+
 
 <img src="https://raw.githubusercontent.com/akroelGOTY/akroelGOTY/output/snake.svg" alt="Snake animation" />
 
