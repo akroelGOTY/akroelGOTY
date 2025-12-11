@@ -33,27 +33,24 @@
 
 ###
 
-<div align="center">
-  <a href="https://x.com/AkroelF1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@AkRoel-FN" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/akroe_l" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<h4 align="center">✨ Conecte-se comigo nas redes sociais</h4>
-
-###
-
-
-
 <img src="https://raw.githubusercontent.com/akroelGOTY/akroelGOTY/output/snake.svg" alt="Snake animation" />
+
+```js
+import Desenvolvedor from "akroelGOTY";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Lucas";
+  area = "Fullstack";
+  nivel = "pré-junior"
+  local = "São José dos Campos";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Html, Css, Javascript, Java, Python, C#"];
+  bibliotecas = ["Scanner"];
+  frameworks = ["React, Next.js, Tailwind.css"];
+}
+```
 
 
 
