@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=500&size=35&pause=1000&color=00DAF7&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Lucas+Ramos!;Fullstack+Developer+)](https://git.io/typing-svg)
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lucas-ramos.lucas-ramos&right_color=black"  />
