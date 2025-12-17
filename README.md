@@ -18,7 +18,8 @@ class SobreMim extends Desenvolvedor {
                                 
 class Skills extends Desenvolvedor {
    linguagens = ["Html, Css, Javascript, Java, Python, C#"];
-   bibliotecas = ["Scanner"];Ferramenta = ["Git"];
+   bibliotecas = ["Scanner"];
+   Ferramenta = ["Git"];
    frameworks = ["React, Next.js, Tailwind.css"];
  }
 ```
