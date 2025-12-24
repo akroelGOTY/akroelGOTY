@@ -31,7 +31,6 @@ class Skills extends Desenvolvedor {
   </a>
 </div>
 
-
 <div align="center">
   <h1>⚙️ GitHub Analytics</h1>
   <table>
