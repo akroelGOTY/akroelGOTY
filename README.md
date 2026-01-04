@@ -6,22 +6,31 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=lucas-ramos.lucas-ramos&right_color=black"  />
 </div>
 
-```js
-import Desenvolvedor from "akroelGOTY";
-                                
-class SobreMim extends Desenvolvedor {
-  nome = "Lucas";
-  area = "Fullstack";
-  nivel = "pré-junior"
-  local = "São José dos Campos";
-}
-                                
-class Skills extends Desenvolvedor {
-   linguagens = ["Html, Css, Javascript, Java, Python, C#"];
-   bibliotecas = ["Scanner"];
-   Ferramenta = ["Git"];
-   frameworks = ["React, Next.js, Tailwind.css"];
- }
+```html
+<div>
+  <h1>Programador Fullstack</h1>
+    <p>nome -> Lucas Ramos</p>
+    <p>nível -> pré-junior</p>
+      <p>local -> São José dos Campos</p>
+        <ul>
+          <li>linguagens -> Html, Css, Javascript, Java, Python, C#</li>
+          <li>frameworks -> React, Next.js, Tailwind.css</li>
+          <li>Ferramenta -> Git, Github</li>
+        </ul>
+    <nav>
+      <a href="https://akroellinks.netlify.app"> Meus Links </a>
+      <a href="https://x.com/AkroelF1"> X (twitter) </a>
+      <a href="https://www.instagram.com/akroe_l"> Instagram </a>
+    </nav>
+  <button id="btn"> Executar Hello World </button>
+</div>
+<script>
+   const botao = document.getElementById('btn');
+
+   botao.addEventListener('click', function() {
+   console.log('Hello World');
+  });
+</script>
 ```
 
 <div align="center">
