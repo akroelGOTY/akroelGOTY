@@ -66,8 +66,3 @@
   <img src="https://raw.githubusercontent.com/akroelGOTY/akroelGOTY/output/snake.svg" alt="Snake animation" />
 </div>
 
-<br>
-<br>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Acessa+meu+portf%C3%B3lio+!;https%3A%2F%2Fakroelgoty.netlify.app)](https://git.io/typing-svg)
