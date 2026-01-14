@@ -40,26 +40,16 @@
   </a>
 </div>
 
+#
+<div align="center">
+  <a href="https://discord.com/invite/servidordosprogramadores">
+    <img width="369" height="139" alt="image" src="https://github.com/user-attachments/assets/5fcaa4b2-60f3-486f-a246-f98d2223a39b" />
+  </a>
+</div>
+
 <div align="center">
   <h1>⚙️ GitHub Analytics</h1>
-  <table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=akroelGOTY&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=akroelGOTY&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+  
 </div>
 
 <div align="center">
