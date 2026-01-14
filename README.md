@@ -50,6 +50,7 @@
 <div align="center">
   <h1>⚙️ GitHub Analytics</h1>
   
+  [![Akroel GitHub stats card](https://github-readme-stats.vercel.app/api?username=akroelGOTY)](https://github.com/akroelGOTY/github-readme-stats)
 </div>
 
 <div align="center">
