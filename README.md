@@ -40,11 +40,11 @@
   </a>
 </div>
 
-#
 <div align="center">
-  <a href="https://discord.com/invite/servidordosprogramadores">
-    <img width="369" height="139" alt="image" src="https://github.com/user-attachments/assets/5fcaa4b2-60f3-486f-a246-f98d2223a39b" />
-  </a>
+  <h2>📢 Comunidade</h2>
+  <p>Tá afim de trocar ideia sobre código, bugs e café às 3h? Vem pro Servidor dos Programadores! 🚀</p>
+  
+  [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
 </div>
 
 <div align="center">
