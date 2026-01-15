@@ -3,7 +3,6 @@
 <div align="left">
   <h3>Desenvolvedor Fullstack Júnior com foco em construção<br> de aplicações web completas, eficientes e escaláveis.</h3>
   <h3>Estou em busca de oportunidades onde possa contribuir com <br>dedicação, aprender com profissionais experientes e crescer na carreira.</h3>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=lucas-ramos.lucas-ramos&right_color=black"  />
 </div>
 
 ```jsx
@@ -38,10 +37,13 @@ export function Header() {
 <div align="center">
   <h1>⚙️ GitHub Analytics</h1>
   
-  [![Akroel GitHub stats card](https://github-readme-stats.vercel.app/api?username=akroelGOTY)](https://github.com/akroelGOTY/github-readme-stats)
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akroelGOTY&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akroelGOTY&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/akroelGOTY/akroelGOTY/output/snake.svg" alt="Snake animation" />
 </div>
+
 
