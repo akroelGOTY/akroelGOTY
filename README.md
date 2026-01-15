@@ -31,7 +31,7 @@ export function Header() {
   <h2>📢 Comunidade</h2>
   <p>Tá afim de trocar ideia sobre código, bugs e café às 3h? Vem pro Servidor dos Programadores! 🚀</p>
   
-  [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
+  [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/programador)
 </div>
 
 <div align="center">
