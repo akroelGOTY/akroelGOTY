@@ -37,8 +37,8 @@ export function Header() {
 <div align="center">
   <h1>⚙️ GitHub Analytics</h1>
   
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akroelGOTY&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akroelGOTY&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akroelGOTY&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akroelGOTY&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
 
