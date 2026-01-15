@@ -6,31 +6,19 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=lucas-ramos.lucas-ramos&right_color=black"  />
 </div>
 
-```html
-<div>
-  <h1>Programador Fullstack</h1>
-    <p>nome -> Lucas Ramos</p>
-    <p>nível -> pré-junior</p>
-      <p>local -> São José dos Campos</p>
-        <ul>
-          <li>linguagens -> Html, Css, Javascript, Java, Python, C#</li>
-          <li>frameworks -> React, Next.js, Tailwind.css</li>
-          <li>Ferramenta -> Git, Github</li>
-        </ul>
-    <nav>
-      <a href="https://akroellinks.netlify.app"> Meus Links </a>
-      <a href="https://x.com/AkroelF1"> X (twitter) </a>
-      <a href="https://www.instagram.com/akroe_l"> Instagram </a>
-    </nav>
-  <button id="btn"> Executar Hello World </button>
-</div>
-<script>
-   const botao = document.getElementById('btn');
+```jsx
+import Logo from '../assets/favicon.png';
 
-   botao.addEventListener('click', function() {
-   console.log('Hello World');
-  });
-</script>
+export function Header() {
+  return (
+    <header className="header">
+      <div className="links">
+        <h1> Meu Linktree pessoal </h1>
+        {/* https://akroellinks.netlify.app */}
+      </div>
+    </header>
+  );
+}
 ```
 
 <div align="center">
