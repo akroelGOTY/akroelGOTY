@@ -13,7 +13,7 @@ export function Header() {
     <header>
       <div className="links">
         <h1> Meu Linktree pessoal </h1>
-        {/* https://akroellinks.netlify.app */}
+        {/* https://lucaslinktree.netlify.app */}
       </div>
     </header>
   );
