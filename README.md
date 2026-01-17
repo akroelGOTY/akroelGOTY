@@ -10,7 +10,7 @@ import Logo from '../assets/favicon.png';
 
 export function Header() {
   return (
-    <header className="header">
+    <header>
       <div className="links">
         <h1> Meu Linktree pessoal </h1>
         {/* https://akroellinks.netlify.app */}
