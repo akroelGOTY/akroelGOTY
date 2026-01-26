@@ -23,7 +23,7 @@ export function Header() {
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,python,javascript,mongodb,cs,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vscode,figma,git,ts,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,git,ts,tailwind" />
   </a>
 </div>
 
