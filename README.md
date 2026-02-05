@@ -8,13 +8,13 @@
 ```tsx
 type infoDev = {
   title: string;
-  url: string;
+  value: string;
 };
 
 const links: infoDev[] = [
-  { title: "Nome", url: "Lucas Ramos" },
-  { title: "idade", url: "13 anos" },
-  { title: "nível", url: "júnior" },
+  { title: "Nome", value: "Lucas Ramos" },
+  { title: "idade", value: "13 anos" },
+  { title: "nível", value: "júnior" },
 ];
 ```
 
