@@ -5,19 +5,17 @@
   <h3>Estou em busca de oportunidades onde possa contribuir com <br>dedicação, aprender com profissionais experientes e crescer na carreira.</h3>
 </div>
 
-```jsx
-import Logo from '../assets/favicon.png';
+```tsx
+type infoDev = {
+  title: string;
+  url: string;
+};
 
-export function Header() {
-  return (
-    <header>
-      <div className="links">
-        <h1> Meu Linktree pessoal </h1>
-        {/* https://lucaslinktree.netlify.app */}
-      </div>
-    </header>
-  );
-}
+const links: infoDev[] = [
+  { title: "Nome", url: "Lucas Ramos" },
+  { title: "idade", url: "13 anos" },
+  { title: "nível", url: "júnior" },
+];
 ```
 
 <div align="center">
