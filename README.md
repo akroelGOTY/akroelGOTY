@@ -35,24 +35,20 @@ export function Header() {
 </div>
 
 <div align="center">
-  <h1>⚙️ GitHub Analytics</h1>
+  <h1>📊 GitHub Analytics</h1>
   
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akroelGOTY&show_icons=true&theme=dark&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akroelGOTY&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
 
+#
+
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akroelGOTY
-/akroelGOTY
-/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akroelGOTY
-/akroelGOTY
-/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akroelGOTY
-/akroelGOTY
-/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akroelGOTY/akroelGOTY/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akroelGOTY/akroelGOTY/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akroelGOTY/akroelGOTY/output/pacman-contribution-graph.svg">
 </picture>
 </div>
 
