@@ -19,7 +19,7 @@ const links: infoDev[] = [
 ```
 
 <div align="center">
-  <table style="width:100%">
+  <table>
     <th colspan="8">💻 Linguagens &nbsp;&nbsp; Frontend</th>
     <tr align="center">
         <td>
