@@ -20,48 +20,48 @@ const links: infoDev[] = [
 
 <div align="center">
   <table>
-    <th colspan="8">💻 Linguagens &nbsp;&nbsp; Frontend</th>
+    <th colspan="8">💻 Linguagens&nbsp; Frontend</th>
     <tr align="center">
         <td>
-            <a href="https://nextjs.org/">
+            <a>
                 <img src="https://skillicons.dev/icons?i=next" width="50" title="Next.js" alt="Next.js"/>
             </a>
         </td>
         <td>
-            <a href="https://react.dev/">
+            <a>
                 <img src="https://skillicons.dev/icons?i=react" width="50" title="React" alt="React"/>
             </a>
         </td>
         <td>
-            <a href="https://www.typescriptlang.org/">
+            <a>
                 <img src="https://skillicons.dev/icons?i=typescript" width="50" title="TypeScript" alt="TypeScript"/>
             </a>
         </td>
         <td>
-            <a href="https://tailwindcss.com/">
+            <a>
                 <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS" alt="Tailwind CSS"/>
             </a>
         </td>
         <td>
-            <a href="https://tailwindcss.com/">
+            <a>
                 <img src="https://skillicons.dev/icons?i=html" width="50" title="html" alt="Tailwind CSS"/>
             </a>
         </td>
         <td>
-            <a href="https://tailwindcss.com/">
+            <a>
                 <img src="https://skillicons.dev/icons?i=css" />
             </a>
         </td>
         <td>
-            <a href="https://tailwindcss.com/">
+            <a>
                 <img src="https://skillicons.dev/icons?i=js" />
             </a>
         </td>
     </tr>
-    <th colspan="8">⚙️ Linguagens &nbsp;&nbsp; Backend </th>
+    <th colspan="8">⚙️ Linguagens&nbsp; Backend </th>
     <tr align="center">
         <td>
-            <a href="https://www.java.com/">
+            <a>
                 <img src="https://skillicons.dev/icons?i=java" width="50" title="Java" alt="Java"/>
             </a>
         </td>
