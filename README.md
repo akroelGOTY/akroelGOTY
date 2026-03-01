@@ -71,10 +71,6 @@ const links: infoDev[] = [
                 <img src="https://skillicons.dev/icons?i=java" width="50" title="Java" alt="Java"/>
             </a>
         </td>
-            <a>
-              <img src="https://skillicons.dev/icons?i=mongodb" /><br>
-            </a>
-        </td>
       <td>
         </td>
       <td>
