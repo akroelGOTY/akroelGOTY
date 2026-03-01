@@ -24,26 +24,6 @@ const links: infoDev[] = [
     <tr align="center">
         <td>
             <a>
-                <img src="https://skillicons.dev/icons?i=next" width="50" title="Next.js" alt="Next.js"/>
-            </a>
-        </td>
-        <td>
-            <a>
-                <img src="https://skillicons.dev/icons?i=react" width="50" title="React" alt="React"/>
-            </a>
-        </td>
-        <td>
-            <a>
-                <img src="https://skillicons.dev/icons?i=typescript" width="50" title="TypeScript" alt="TypeScript"/>
-            </a>
-        </td>
-        <td>
-            <a>
-                <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS" alt="Tailwind CSS"/>
-            </a>
-        </td>
-        <td>
-            <a>
                 <img src="https://skillicons.dev/icons?i=html" width="50" title="html" alt="Tailwind CSS"/>
             </a>
         </td>
@@ -57,31 +37,48 @@ const links: infoDev[] = [
                 <img src="https://skillicons.dev/icons?i=js" />
             </a>
         </td>
+        <td>
+            <a>
+                <img src="https://skillicons.dev/icons?i=typescript" width="50" title="TypeScript" alt="TypeScript"/>
+            </a>
+        </td>
+        <td>
+            <a>
+                <img src="https://skillicons.dev/icons?i=react" width="50" title="React" alt="React"/>
+            </a>
+        </td>
+        <td>
+            <a>
+                <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS" alt="Tailwind CSS"/>
+            </a>
+        </td>
+        <td>
+            <a>
+                <img src="https://skillicons.dev/icons?i=next" width="50" title="Next.js" alt="Next.js"/>
+            </a>
+        </td>
     </tr>
     <th colspan="8">⚙️ Linguagens&nbsp; Backend </th>
     <tr align="center">
-        <td>
-            <a>
-                <img src="https://skillicons.dev/icons?i=java" width="50" title="Java" alt="Java"/>
-            </a>
-        </td>
-      <td>
-            <a>
-              <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js" alt="Node.js"/>
-            </a>
-        </td>
       <td>
             <a>
               <img src="https://skillicons.dev/icons?i=cs" /><br>
             </a>
         </td>
       <td>
+        <td>
+            <a>
+                <img src="https://skillicons.dev/icons?i=java" width="50" title="Java" alt="Java"/>
+            </a>
+        </td>
             <a>
               <img src="https://skillicons.dev/icons?i=mongodb" /><br>
             </a>
         </td>
       <td>
-            <a>
+        </td>
+      <td>
+          <a>
               <img src="https://skillicons.dev/icons?i=python" /><br>
             </a>
         </td>
@@ -91,6 +88,7 @@ const links: infoDev[] = [
         </td>
       <td>
             <a>
+              <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js" alt="Node.js"/>
             </a>
         </td>
     </tr>
