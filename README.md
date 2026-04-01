@@ -13,7 +13,7 @@ type infoDev = {
 
 const links: infoDev[] = [
   { title: "Nome", value: "Lucas Ramos" },
-  { title: "idade", value: "13 anos" },
+  { title: "idade", value: "14 anos" },
   { title: "nível", value: "júnior" },
 ];
 ```
