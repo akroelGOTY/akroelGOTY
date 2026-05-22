@@ -120,8 +120,8 @@ const links: infoDev[] = [
 <div align="center">
   <h2>📚Road-card</h2>
   <p>Este é o meu card (cartão) que representa um tópico dentro de um roadmap de estudos.</p>
-    
-  [![roadmap.sh](https://roadmap.sh/card/wide/68d31a0ed7b6adb66d622340?variant=dark)](https://roadmap.sh)
+
+  [![roadmap.sh](https://roadmap.sh/card/wide/68d31a0ed7b6adb66d622340?variant=dark&roadmaps=%2Ccss%2Cjavascript)](https://roadmap.sh)
   
 </div>
 
