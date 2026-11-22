@@ -99,13 +99,7 @@ const links: infoDev[] = [
   [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/programador)
 </div>
 
-<div align="center">
-  <h1>📊 GitHub Analytics</h1>
-  
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akroelGOTY&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akroelGOTY&layout=compact&langs_count=7&theme=dark"/>
 
-</div>
 
 #
 
@@ -117,11 +111,5 @@ const links: infoDev[] = [
 </picture>
 </div>
 
-<div align="center">
-  <h2>📚Road-card</h2>
-  <p>Este é o meu card (cartão) que representa um tópico dentro de um roadmap de estudos.</p>
 
-  [![roadmap.sh](https://roadmap.sh/card/wide/68d31a0ed7b6adb66d622340?variant=dark&roadmaps=%2Ccss%2Cjavascript)](https://roadmap.sh)
-  
-</div>
 
